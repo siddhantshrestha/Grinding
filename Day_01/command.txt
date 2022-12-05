@@ -1,0 +1,37 @@
+Bash basic command
+
+pwd (print working directory) - print the path of current directory.
+
+mkdir <folder name> - create a folder.
+
+touch - create either a single file or multiple files.
+
+mv <filename> <foldername> - move file to the destinated folder.
+
+clear - clear the screen.
+
+ls - show list of file in white and folder in blue and also can be used to check whether following file is in folder or not.
+
+ls -la - provide details informtion about the file.
+
+. and .. - single dot means current directory and double dot is parent directory.
+
+start - opens the folder(directory).
+
+rm <filename> - remove file from current dir.
+
+rmdir <dir name> - remove dir name.
+
+rm -r <dir> - remove folder which have file in it. r stands for recursive which apply this cmd to all files and dir until get removed.
+
+echo "message" <filename> - create file with content inside file.
+
+cat <filename> - read content from file.
+
+cp <filename> <dir/filename> - copy file from source to destinated dir.
+
+mv <filename> <dir> - move file from source to destination dir.
+
+cp <dir/*> <dir> - copy all file from  source to destinated dir.
+
+exit - exit from bash.
