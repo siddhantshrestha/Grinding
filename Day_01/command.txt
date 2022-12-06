@@ -1,4 +1,4 @@
-Bash basic command
+Git Bash basic command
 
 pwd (print working directory) - print the path of current directory.
 
