@@ -1,0 +1,36 @@
+#Git  basiuc command
+
+git init - create a .git folder in working dir.
+
+git remote add [url] - add a github url as an alias.
+
+git add - adds changes of current dir in staging area.
+
+git commit -m "message"  - save changes to local repo and also help to keep record of all the changes made with messages in it.
+
+git status - shows the state of the current repo and staging area.
+
+git merge - help to integrate diff branches to a single branch.
+
+git push -u origin [branch] - Transmit local branch commits to the remote repository branch.
+
+git push - upload the content from local repo to remote .
+
+git pull - used to fetch the new commit and merge them into local branch.
+
+git clone - copy or clone a repo in a new dir at new place.
+
+git branch - list the branches of repo and  a * will appear next to the currently active branch.
+
+git branch [brach-name] - create a branch with given branch name.
+
+git checkout - enable navigation between branches.
+
+git config - set configuration like name , email etc.
+
+git log - show all the commit of current branch and lsited in reverse chronological order i.e, recent commit at the top.
+
+git diff - show the difference changes made in file but not staged.
+
+git diff --staged - show diff of what is staged but not commited yet.
+
